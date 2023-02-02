@@ -1,0 +1,51 @@
+Chinese yuan
+Euro
+Japanese yen
+U.K. pound
+U.S. dollar
+Algerian dinar
+Australian dollar
+Bahrain dinar
+Botswana pula
+Brazilian real
+Brunei dollar
+Canadian
+Chilean peso
+Colombian peso
+Czech koruna
+Danish krone
+Hungarian forint
+Icelandic krona
+Indian rupee
+Indonesian rupiah
+Iranian rial
+Israeli New Shekel
+Kazakhstani tenge
+Korean won
+Kuwaiti dinar
+Libyan dinar
+Malaysian ringgit
+Mauritian rupee
+Mexican peso
+Nepalese rupee
+New Zealand dollar
+Norwegian krone
+Omani rial
+Pakistani rupee
+Peruvian sol
+Philippine peso
+Polish zloty
+Qatari riyal
+Russian ruble
+Saudi Arabian riyal
+Singapore dollar
+South African rand
+Sri Lankan rupee
+Swedish krona
+Swiss franc
+Thai baht
+Trinidadian dollar
+Tunisian dinar
+U.A.E. dirham
+Uruguayan peso
+Bolivar Soberano
