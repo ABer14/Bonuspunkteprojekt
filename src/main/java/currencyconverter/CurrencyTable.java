@@ -25,10 +25,10 @@ public class CurrencyTable {
 
 
         try {
-            File fileCurrencies = new File("C:\\Users\\abelj\\IdeaProjects\\Bonuspunkteprojekt\\src\\main\\java\\ff061\\ab327\\currencies.txt"); // Path of the file currencies.txt
+            File fileCurrencies = new File("src/main/resources/currencies.txt"); // Path of the file currencies.txt
             Scanner currenciesSc = new Scanner(fileCurrencies); // Scanner to read the file currencies.txt
 
-            File fileValues = new File("C:\\Users\\abelj\\IdeaProjects\\Bonuspunkteprojekt\\src\\main\\java\\ff061\\ab327\\currenciesValues.txt"); // Path of the file currenciesValues.txt
+            File fileValues = new File("src/main/resources/currenciesValues.txt"); // Path of the file currenciesValues.txt
             Scanner valuesSc = new Scanner(fileValues); // Scanner to read the file currenciesValues.txt
 
             while (currenciesSc.hasNextLine() ) { // While there is a next line
